@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning python,html,css and Java script
 
 - 📫 How to reach me
-email: ad5373500@gmail.com
-instagram: {coming soon}
-twitter: {coming soon}
+- email: ad5373500@gmail.com
+- instagram: {coming soon}
+- twitter: {coming soon}
 
 
 
